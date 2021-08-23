@@ -1,7 +1,7 @@
 # Americal-Sign-Language
 American Sign Language (ASL) is the primary language used by many deaf individuals in North America, and it is also used by hard-of-hearing and hearing individuals.  The language is as rich as spoken languages and employs signs made with the hand, along with facial gestures and bodily postures.
 
-<p><img src="https://assets.datacamp.com/production/project_509/img/asl.png" alt="american sign language"></p>
+<p><img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F7%2F7d%2FAmerican_Sign_Language_ASL.svg%2F1200px-American_Sign_Language_ASL.svg.png&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FAmerican_Sign_Language&tbnid=7HOKSEvnsXedqM&vet=12ahUKEwi2z8CT88fyAhWn0XMBHczgCOkQMygBegUIARDTAQ..i&docid=GDxSgvUaNPGKVM&w=1200&h=543&q=american%20sign%20language&ved=2ahUKEwi2z8CT88fyAhWn0XMBHczgCOkQMygBegUIARDTAQ" alt="american sign language"></p>
 
 A lot of recent progress has been made towards developing computer vision systems that translate sign language to spoken language.  This technology  often relies on complex neural network architectures that can detect subtle patterns in streaming video.  However, as a first step, towards understanding how to build a translation system, we can reduce the size of the problem by translating individual letters, instead of sentences.
 
